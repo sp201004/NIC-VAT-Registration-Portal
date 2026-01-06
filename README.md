@@ -13,7 +13,6 @@ A modern, user-friendly web application for Value Added Tax (VAT) registration i
 [![React Router](https://img.shields.io/badge/React%20Router-7.6.2-ca4245?logo=react-router&logoColor=white)](https://reactrouter.com/)
 
 </div>
----
 
 ## 📖 Table of Contents
 
@@ -113,15 +112,31 @@ Home → Part A → Part B → Part C → Bank Info → Additional Places → Pa
 ---
 
 ## � Screenshots
-<div align="center">
+
 ### Home Page
+<div align="center">
+
 ![First Page](assets/screenshots/First%20Page.png)
+
+</div>
+
 ### Sign In
+<div align="center">
+
 ![Sign In](assets/screenshots/Sign-In.png)
+
+</div>
+
 ### Registration Form (Part A)
+<div align="center">
+
 ![Part A](assets/screenshots/Part%20A.png)
 
+</div>
+
 ### Document Upload
+<div align="center">
+
 ![Documents](assets/screenshots/Documents.png)
 
 </div>
