@@ -246,7 +246,7 @@ The frontend application is built using a modern stack to ensure performance, ma
 
 The user interface and experience are designed with a focus on simplicity, responsiveness, and accessibility:
 
-* **Wireframes:** Based on detailed [VAT-frontend-wireframes available on Figma](https://www.figma.com/design/cLaFvjaWHnxJeGCE9S2qW4/VAT?node-id=0-1&t=GH5D5sxhzYbzXiyp-1), ensuring a consistent design language and navigation flow.
+* **Wireframes:** Based on detailed [VAT Frontend WireFrames available on Figma](https://www.figma.com/design/DxvLsJbcMhVJkoP4x3n7pc/NIC-VAT-Registration?m=auto&t=TNs2BzidBiDDgfuC-1), ensuring a consistent design language and navigation flow.
 * **Styling:** Utilizes [Bootstrap 5](https://getbootstrap.com/) for a modern, clean, and consistent look and feel across all components and pages.
 
 ---
