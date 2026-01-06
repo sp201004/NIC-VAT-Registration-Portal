@@ -113,45 +113,19 @@ Home → Part A → Part B → Part C → Bank Info → Additional Places → Pa
 ---
 
 ## � Screenshots
-
+<div align="center">
 ### Home Page
 ![First Page](assets/screenshots/First%20Page.png)
 
-### Sign In
-![Sign In](assets/screenshots/Sign-In.png)
-
-### Verification
-![Verification](assets/screenshots/Verification.png)
-
-### Part A Form
+### Registration Form (Part A)
 ![Part A](assets/screenshots/Part%20A.png)
-
-### Part B Form
-![Part B](assets/screenshots/Part%20B.png)
-
-### Part C Form
-![Part C](assets/screenshots/Part%20C.png)
-
-### Bank Information
-![Bank Info](assets/screenshots/Bank%20info.png)
-
-### Additional Business Places
-![Additional Business Places](assets/screenshots/Additional%20Business%20Places.png)
-
-### Business Partner Details
-![Business Partner Details](assets/screenshots/Business%20Partner%20Details.png)
 
 ### Document Upload
 ![Documents](assets/screenshots/Documents.png)
 
-### Finish
-![Finish](assets/screenshots/Finish.png)
+</div>
 
-### Forgot Password
-![Forgot Password](assets/screenshots/Forgot%20Password.png)
-
-### Forgot UGAAC ID
-![Forgot UGAAC ID](assets/screenshots/Forgot%20UGAAC%20ID.png)
+> 📋 **More Screenshots**: For complete UI walkthrough and all pages, visit our [Figma Design File](https://www.figma.com/design/DxvLsJbcMhVJkoP4x3n7pc/NIC-VAT-Registration?m=auto&t=TNs2BzidBiDDgfuC-1)
 
 ---
 
