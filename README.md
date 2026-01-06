@@ -116,7 +116,8 @@ Home → Part A → Part B → Part C → Bank Info → Additional Places → Pa
 <div align="center">
 ### Home Page
 ![First Page](assets/screenshots/First%20Page.png)
-
+### Sign In
+![Sign In](assets/screenshots/Sign-In.png)
 ### Registration Form (Part A)
 ![Part A](assets/screenshots/Part%20A.png)
 
