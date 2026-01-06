@@ -2,11 +2,11 @@
 
 <div align="center">
 
+![Banner](assets/banner/banner.png)
+
 **राष्ट्रीय सूचना विज्ञान केंद्र | National Informatics Centre**
 
 A modern, user-friendly web application for Value Added Tax (VAT) registration in Tripura, India.
-
-![Overview](https://github.com/user-attachments/assets/1b1e6b6b-602a-456b-8b51-eecfff38fa72)
 
 [![React](https://img.shields.io/badge/React-19.1.0-61dafb?logo=react&logoColor=white)](https://reactjs.org/)
 [![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.7-7952b3?logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
@@ -115,13 +115,43 @@ Home → Part A → Part B → Part C → Bank Info → Additional Places → Pa
 ## � Screenshots
 
 ### Home Page
-![Home Page](./screenshots/home.png)
+![First Page](assets/screenshots/First%20Page.png)
 
-### Registration Form
-![Part A Form](./screenshots/part-a.png)
+### Sign In
+![Sign In](assets/screenshots/Sign-In.png)
+
+### Verification
+![Verification](assets/screenshots/Verification.png)
+
+### Part A Form
+![Part A](assets/screenshots/Part%20A.png)
+
+### Part B Form
+![Part B](assets/screenshots/Part%20B.png)
+
+### Part C Form
+![Part C](assets/screenshots/Part%20C.png)
+
+### Bank Information
+![Bank Info](assets/screenshots/Bank%20info.png)
+
+### Additional Business Places
+![Additional Business Places](assets/screenshots/Additional%20Business%20Places.png)
+
+### Business Partner Details
+![Business Partner Details](assets/screenshots/Business%20Partner%20Details.png)
 
 ### Document Upload
-![Document Upload](./screenshots/documents.png)
+![Documents](assets/screenshots/Documents.png)
+
+### Finish
+![Finish](assets/screenshots/Finish.png)
+
+### Forgot Password
+![Forgot Password](assets/screenshots/Forgot%20Password.png)
+
+### Forgot UGAAC ID
+![Forgot UGAAC ID](assets/screenshots/Forgot%20UGAAC%20ID.png)
 
 ---
 
