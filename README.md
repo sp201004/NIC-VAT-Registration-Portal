@@ -111,7 +111,7 @@ Home → Part A → Part B → Part C → Bank Info → Additional Places → Pa
 
 ---
 
-## � Screenshots
+## 📸 Screenshots
 
 ### Home Page
 <div align="center">
